@@ -59,9 +59,6 @@
 - 약속이 확정되면, 사용자는 약속을 자신의 캘린더에 추가할 수 있습니다.
 ---
 
-## 🐈‍⬛ Git Branch
-[Git 전략](https://github.com/yoohyebin/MC3-Team2-OU/wiki/SeaYa!-Wiki)
-
 ## 📂 Project Structure
 ```
 ├─ Legacy
